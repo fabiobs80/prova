@@ -1,3 +1,6 @@
 questo è il foglio di stile
 prima regola;
 seconda regola
+terza regola
+
+FI§NE DEL LAVORO
